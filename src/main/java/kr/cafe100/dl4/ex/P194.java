@@ -4,7 +4,7 @@ import org.nd4j.linalg.api.ndarray.INDArray;
 import org.nd4j.linalg.factory.Nd4j;
 
 /**
- *
+ * from https://github.com/PacktPublishing/Java-Deep-Learning-Essentials
  * @author hohoonlee
  */
 public class P194 {
